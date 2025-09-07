@@ -39,10 +39,11 @@ export default function App() {
 
     const userMessage = { sender: "user", text: input };
     setMessages((prev) => [...prev, userMessage]);
-    setInput(""); // langsung clear input
+    setInput(""); 
 
     try {
-      const res = await fetch("http://localhost:5000/ask", {
+      // Panggil Netlify serverless function
+      const res = await fetch("/.netlify/functions/ask", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ question: input }),
