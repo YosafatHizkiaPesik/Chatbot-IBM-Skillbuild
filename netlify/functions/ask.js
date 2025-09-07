@@ -1,11 +1,14 @@
 import Replicate from "replicate";
 import fs from "fs";
+import path from "path";
 
 // Ambil API token dari Environment Variable Netlify
 const replicate = new Replicate({ auth: process.env.REPLICATE_API_TOKEN });
 
-// Load FAQ JSON
-const faqData = JSON.parse(fs.readFileSync("./faq.json", "utf-8"));
+// Load FAQ JSON dari root project (process.cwd())
+const faqData = JSON.parse(
+  fs.readFileSync(path.join(process.cwd(), "faq.json"), "utf-8")
+);
 
 // Fungsi deteksi sapaan
 function detectSapaan(question) {
