@@ -1,0 +1,119 @@
+Link absensi mana bang?
+
+Wiss kamu rajin juga, pasti Bang Windah senang melihat kamu. Ini ya https://bit.ly/sdiabsensi
+
+Link pre test mana bang?
+
+Di sini ya https://bit.ly/sdipretestcode
+
+Link post test mana bang?
+
+Di sini ya https://bit.ly/sdiposttestcode
+
+Dimana saya bisa melihat semua sumber materi yang digunakan selama sesi?
+
+Sumbernya langsung dari pegunungan ya di sini https://bit.ly/sdicodematerials
+
+Kenapa sertifikat IBM skills build saya belum keluar bang?
+
+Kuncinya adalah sabar kawan hehehe. Sertifikatnya ngak langsung keluar ya, nunggu 20 menit sampai 1 jam
+
+Kumpulin tugas session 2 seperti sertifikat dimana bang?
+
+Di sini https://bit.ly/SDIConfirmation 
+
+Kumpulin tugas session 3 seperti sertifikat dimana bang?
+
+Di sini https://bit.ly/SDIConfirmation 
+
+Kapan kita dapat sertifikat dari credly?
+
+Menyelesaikan Course 3 baru sertifikat versi credly akan muncul secara otomatis di credly.com dengan daftar menggunakan email yang sama seperti kalian daftarkan di IBM SkillsBuild
+
+Kenapa sertifikat credly saya uda nunggu lama belum keluar bang?
+
+Nahh credly juga ngak langsung keluar, nunggunya lebih lama ya, kurang lebih 1x24 jam
+
+Bang, cara dapatin sertifikat IBM Skills Build, credly gimana caranya?
+
+Panduannya ada di sini yaaa https://drive.google.com/file/d/159lHqsk3G8hyIShmYA2knXPJaDVKnlU9/view?usp=sharing
+
+Cara tahu hari ini session ke berapa darimana bang?
+
+Kalau hari ini hari selasa, maka session 2, kalau hari ini hari kamis, maka session 3, kalau hari ini hari yang kau tunggu, itu lagunya jambrud
+
+Link course 1 apa bang?
+
+Link course 1 ini https://skills.yourlearning.ibm.com/activity/MDL-504?ngo-id=0302&utm-campaign=hactiv8
+
+Link course 2 apa bang?
+
+Link course 2 ini https://skills.yourlearning.ibm.com/activity/MDL-567?ngo-id=0302&utm-campaign=hactiv8
+
+Link course 3 apa bang?
+
+Link course 3 ini https://skills.yourlearning.ibm.com/activity/MDL-566?ngo-id=0302&utm-campaign=hactiv8
+
+Deadline course 1 dan course 2 di session 2 kapan bang?
+
+H+1 dari Session 2
+
+Deadline course 3 di session 3 kapan bang?
+
+H+3 dari Session 3
+
+Bang deadline captstone project kapan dan link submission atau pengumpulannya dimana bang?
+
+H+10 dari Session 3. Dikumpulkan di https://bit.ly/SDIProjectCode
+
+Jenis course nya apa bang?
+
+Code Generations and Optimization donggg
+
+Batch berapa bang kita?
+
+Nomor batchnya ada tertulis nama instrukturnya juga ya. Jadi, pilih opsi sesuai dengan nama instruktur kamu dong. Tapi, jangan bilang kamu ngak tahu nama instrukturnya 🗿
+
+Captstone project atau final projectnya bikin apa bang?
+
+Bikin kue. Becanda, becanda. Pada intinya, pilih diantara 2 hal ini ya. Memakai granite model untuk opsi pertama memakai granite model untuk generate code atau opsi kedua membuat aplikasi yg ada integrasi AI (granite model). Mau bikin aplikasi website, mobile, atau yang hal lain bebas ya, mau sampai bikin jalan tol juga boleh. Bebas juga mau pakai tech stack apa pun yang kalian bisa
+
+Perlu deploy Captstone project atau final projectnya nya?
+
+Alangkah lebih baik si deploy agar lebih mudah dicek, tapi lihat kemampuan coding kalian sampai dimana dulu ya. Dan deploy yang provider yang free cukup ya sebenarnya
+
+Apakah harus deploy Captstone project atau final projectnya nya ke vercel, netlify, firebase?
+
+Itu cuman contoh aja, kalian mau ke provider yang lain silahkan
+
+Jadi kita sudah ngapain aja di session 2?
+
+cek di sini ya https://drive.google.com/file/d/1DiqGngT4ZH4nLeo8va-QquJrHe7ORpwm/view?usp=sharing
+
+Jadi kita sudah ngapain aja di session 3?
+
+cek di sini ya https://drive.google.com/file/d/1pDiuvq1vgIW-3iCOG1sRfkjp5badi1Ss/view?usp=sharing
+
+Cara dapatin atau claim replicate free cents gimana?
+
+klik link ini https://replicate.com/invites/a8717bfe-2f3d-4a52-88ed-1356231cdf03
+
+Isi Pre test dan post test kapan aja bang?
+
+Pre test hanya sekali di awal di session 2 dan post test sekali di akhir di session 3
+
+Bang bisa lihat project yang dibikin batch sebelumnya ngak?
+
+Untuk contoh project dari batch sebelumnya tidak bisa, tetapi kamu bisa lihat salah satu contoh project ini ya https://youtu.be/oHIOvt9VMDw
+
+Bang cara pakai IBM Watson X gimana?
+
+Sejujurnya, tools yang akan dipakai adalah replicate.com, jadi IBM Watson X saat ini opsional, dan daftarnya juga perlu credit card (cc). Kamu bisa akses dari https://jp-tok.dataplatform.cloud.ibm.com/login
+
+Bang cara pakai replicate.com nya buat akses granite gimana bang?
+
+akses ke link https://replicate.com/ibm-granite/granite-3.3-8b-instruct
+
+Ada pertanyaan yang belum terjawab?
+
+Boleh coba lihat PDF PDF di https://bit.ly/sdicodematerials
